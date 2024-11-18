@@ -1,0 +1,51 @@
+Customer ID,Name,Gender,Age,Income (USD),Profession,Location,Loan Amount Request (USD),Current Loan Expenses (USD),Credit Score,Has Active Credit Card,Property ID,Property Age,Property Location,Property Price,Loan Sanction Amount (INR)
+C-36995,Frederica Shealy,F,56,1933.05,Working,Semi-Urban,72809.58,241.08,809.44,,746,1933.05,Rural,119933.46,54607.18
+C-33999,America Calderone,M,32,4952.91,Working,Semi-Urban,46837.47,495.81,780.4,Unpossessed,608,4952.91,Rural,54791,37469.98
+C-3770,Rosetta Verne,F,65,988.19,Pensioner,Semi-Urban,45593.04,171.95,833.15,Unpossessed,546,988.19,Urban,72440.58,36474.43
+C-26480,Zoe Chitty,F,65,,Pensioner,Rural,80057.92,298.54,832.7,Unpossessed,890,,Semi-Urban,121441.51,56040.54
+C-23459,Afton Venema,F,31,2614.77,Working,Semi-Urban,113858.89,491.41,745.55,Active,715,2614.77,Semi-Urban,208567.91,74008.28
+C-17688,Polly Crumpler,F,60,1234.92,State servant,Rural,34434.72,181.48,684.12,Inactive,491,1234.92,Rural,43146.82,22382.57
+C-23855,Nathalie Olivier,M,43,2361.56,Working,Semi-Urban,152561.34,697.67,637.29,Unpossessed,227,2361.56,Semi-Urban,221050.8,0
+C-11006,Clarinda Montana,F,45,,State servant,Semi-Urban,240311.77,807.64,812.26,Active,314,,Urban,401040.7,168218.24
+C-26934,Kenny Ankrom,F,38,1296.07,Working,Rural,35141.99,155.95,705.29,Active,241,1296.07,Rural,54903.44,22842.29
+C-24944,Barbie Goetsch,M,18,1546.17,Working,Rural,42091.29,500.2,613.24,Unpossessed,883,1546.17,Urban,67993.43,0
+C-40801,Laree Staton,M,18,2416.86,State servant,Semi-Urban,25765.72,140.02,652.41,Active,325,2416.86,Rural,32423.71,16747.72
+C-37677,Xenia Browder,F,39,2719.74,Commercial associate,Semi-Urban,20879.96,93.99,646.21,,196,2719.74,Rural,33568.47,0
+C-30073,Brinda Vaz,F,48,777.25,Working,Semi-Urban,96080.6,342.33,764.11,Active,678,777.25,Semi-Urban,146073.26,67256.42
+C-34993,Brendon Swanson,F,43,997.25,Working,Rural,48894.06,178.06,726.28,,578,997.25,Rural,80607.4,34225.84
+C-35991,Gricelda Lamphere,M,61,1664.52,Working,Semi-Urban,72448.95,398.88,781.51,Active,500,1664.52,Urban,113464.01,54336.71
+C-39716,Marietta Alverson,F,54,3716.54,Working,Rural,116487.58,521.23,749.33,Active,458,3716.54,Urban,194442.39,75716.93
+C-45549,Elidia Mccluney,F,61,2077.42,Working,Semi-Urban,70815.01,417.01,779.55,Inactive,395,2077.42,Rural,102502.2,0
+C-7540,Gina Mattison,M,64,2346.88,Working,Rural,89489.99,327.14,803.04,Active,68,2346.88,Rural,148424.56,67117.49
+C-11119,Sachiko Sheilds,M,65,1523.03,Pensioner,Semi-Urban,66567.35,299.53,862.33,Unpossessed,739,1523.03,Semi-Urban,118617.77,46597.14
+C-20654,Dian Myles,F,41,1837.17,Working,Rural,112910.57,422.61,722.74,Inactive,499,1837.17,Urban,128407.6,73391.87
+C-49922,Loriann Ericksen,F,32,1537.82,Working,Rural,93103.63,351.54,671.65,Inactive,413,1537.82,Urban,116861.82,0
+C-34215,Yuri Kellen,F,19,2889.94,Working,Rural,57810.08,264.92,787.74,Inactive,908,2889.94,Semi-Urban,80756.7,40467.06
+C-11549,Mellissa Dupler,F,44,1266.06,Working,Semi-Urban,12402.54,136.65,804.2,Unpossessed,89,1266.06,Semi-Urban,21913.58,-999
+C-35716,Blossom Lentine,F,24,2538.85,Working,Rural,120525.64,552.77,721.27,Inactive,640,2538.85,Rural,170642.55,84367.95
+C-45470,Yolonda Kranz,F,55,2497.4,Working,Semi-Urban,115851.35,479.87,712.05,Unpossessed,694,2497.4,Semi-Urban,151126.46,0
+C-30663,Sonny Smock,F,63,700.07,Pensioner,Semi-Urban,38101.51,240.38,860.88,Unpossessed,566,700.07,Urban,47390.38,28576.13
+C-49479,Gilda Kampf,M,18,4028.01,State servant,Rural,95922.71,417.05,620,Active,479,4028.01,Semi-Urban,139522.21,0
+C-44863,Gerard Forsman,F,18,5350.94,Commercial associate,Semi-Urban,99492.44,516.71,733.68,Inactive,344,5350.94,Rural,188950.33,0
+C-32492,Ned Than,F,23,4141.15,State servant,Rural,168825.55,621.83,637.03,Active,424,4141.15,Semi-Urban,193087.29,0
+C-39879,Thea Rodenberger,M,29,3880.49,Working,Urban,234770.77,636.65,767.85,Active,514,3880.49,Semi-Urban,326886.67,164339.54
+C-13848,Lin Britto,F,32,2478.54,Working,Semi-Urban,30195.97,225.64,,Active,581,2478.54,Rural,45299.77,24156.78
+C-14489,Stephane Arnott,F,18,,Working,Semi-Urban,85927.28,217.19,688.21,,854,,Rural,160151.78,60149.1
+C-29424,Sade Emery,F,28,2474.33,Working,Semi-Urban,17503,144.82,855.97,Unpossessed,147,2474.33,Rural,32580.57,14002.4
+C-15497,Roslyn Yetter,F,18,1220.16,Working,Semi-Urban,35595.86,153.25,706.08,Unpossessed,681,1220.16,Semi-Urban,41948.44,24917.1
+C-43780,Samantha Hullinger,M,18,1671.02,State servant,Semi-Urban,91850.54,438.64,834.62,Active,164,1671.02,Rural,144087.09,0
+C-42461,Torri Jeffreys,F,49,1974.82,Working,Semi-Urban,43299.94,264.58,651.45,Inactive,157,1974.82,Rural,58269.09,0
+C-21055,Travis Priester,F,61,5302.28,Working,Rural,186715.38,527.81,748.38,Active,43,5302.28,Semi-Urban,270558.3,121365
+C-39141,Bert Dinkins,F,18,2368.34,Working,Semi-Urban,18386.57,219.7,672.32,Unpossessed,245,2368.34,Semi-Urban,27966.91,11951.27
+C-21133,Beatriz Lamantia,M,28,2067.66,Working,Semi-Urban,39290.22,193.27,630.73,Active,740,2067.66,Semi-Urban,70132.42,0
+C-24451,Margareta Wind,M,18,7885.56,Commercial associate,Urban,121963.5,587.8,721.18,Unpossessed,530,7885.56,Urban,142645.25,85374.45
+C-30790,Angelyn Satcher,M,30,4096.07,Working,Semi-Urban,65332.24,334.81,707.3,Inactive,575,4096.07,Urban,122411.52,42465.96
+C-48527,Mana Chattin,F,54,5330.72,Working,Semi-Urban,133531.81,535.77,861.21,Active,467,5330.72,Urban,170214.99,100148.86
+C-37811,Nicki Villela,M,37,2680.38,Commercial associate,Semi-Urban,85145.49,618.52,855.18,Inactive,217,2680.38,Rural,104278,68116.39
+C-23075,Brendan Lopez,M,51,3384.91,Working,Semi-Urban,40679.95,340.44,799.57,Active,421,3384.91,Semi-Urban,54618.45,32543.96
+C-28305,Benny Pelosi,F,18,1694.53,Commercial associate,Rural,41837.3,286.68,747.21,Inactive,458,1694.53,Urban,75416.35,27194.25
+C-47362,Elke Vitolo,F,27,1960.17,Working,Semi-Urban,123034.46,684.16,715.43,Inactive,270,1960.17,Rural,169416.28,0
+C-21608,Danica Villacorta,M,54,1871.92,Working,Semi-Urban,55863.31,318.76,797.47,Active,279,1871.92,Semi-Urban,102110.07,44690.65
+C-33417,Mara Acey,F,44,1761.15,Working,Semi-Urban,75574.36,355.11,755.48,Inactive,563,1761.15,Rural,84102.27,56680.77
+C-1539,Brandon Mcgowan,M,64,2478.3,Working,Semi-Urban,171270.39,560.47,733.67,Unpossessed,530,2478.3,Urban,300043.91,111325.75
+C-16602,Dorotha Kilgore,M,59,,Commercial associate,Semi-Urban,155502.39,502.13,855.39,Unpossessed,956,,Semi-Urban,228079.45,116626.79

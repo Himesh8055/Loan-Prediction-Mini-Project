@@ -1,0 +1,50 @@
+Loan_ID,Gender,Married,Dependents,Education,Self_Employed,ApplicantIncome,Coapplicant_Income,LoanAmount,Loan_Amount_Term,Credit_History,Cibil_Score,Loan_Status
+LP001002,Male,No,0,Graduate,No,5849,0,,360,1,778, Approved
+LP001003,Male,Yes,1,Graduate,No,4583,1508,128,360,1,417, Rejected
+LP001005,Male,Yes,0,Graduate,Yes,3000,0,66,360,1,506, Rejected
+LP001006,Male,Yes,0,Not Graduate,No,2583,2358,120,360,1,467, Rejected
+LP001008,Male,No,0,Graduate,No,6000,0,141,360,1,382, Rejected
+LP001011,Male,Yes,2,Graduate,Yes,5417,4196,267,360,1,319, Rejected
+LP001013,Male,Yes,0,Not Graduate,No,2333,1516,95,360,1,678, Approved
+LP001014,Male,Yes,3,Graduate,No,3036,2504,158,360,0,382, Rejected
+LP001018,Male,Yes,2,Graduate,No,4006,1526,168,360,1,782, Approved
+LP001020,Male,Yes,1,Graduate,No,12841,10968,349,360,1,388, Rejected
+LP001024,Male,Yes,2,Graduate,No,3200,700,70,360,1,547, Approved
+LP001027,Male,Yes,2,Graduate,,2500,1840,109,360,1,538, Rejected
+LP001028,Male,Yes,2,Graduate,No,3073,8106,200,360,1,311, Rejected
+LP001029,Male,No,0,Graduate,No,1853,2840,114,360,1,679, Approved
+LP001030,Male,Yes,2,Graduate,No,1299,1086,17,120,1,469, Rejected
+LP001032,Male,No,0,Graduate,No,4950,0,125,360,1,794, Approved
+LP001034,Male,No,1,Not Graduate,No,3596,0,100,240,,663, Approved
+LP001036,Female,No,0,Graduate,No,3510,0,76,360,0,780, Approved
+LP001038,Male,Yes,0,Not Graduate,No,4887,0,133,360,1,736, Approved
+LP001041,Male,Yes,0,Graduate,,2600,3500,115,,1,652, Approved
+LP001043,Male,Yes,0,Not Graduate,No,7660,0,104,360,0,315, Rejected
+LP001046,Male,Yes,1,Graduate,No,5955,5625,315,360,1,530, Rejected
+LP001047,Male,Yes,0,Not Graduate,No,2600,1911,116,360,0,311, Rejected
+LP001050,,Yes,2,Not Graduate,No,3365,1917,112,360,0,551, Approved
+LP001052,Male,Yes,1,Graduate,,3717,2925,151,360,,324, Rejected
+LP001066,Male,Yes,0,Graduate,Yes,9560,0,191,360,1,514, Rejected
+LP001068,Male,Yes,0,Graduate,No,2799,2253,122,360,1,696, Approved
+LP001073,Male,Yes,2,Not Graduate,No,4226,1040,110,360,1,662, Approved
+LP001086,Male,No,0,Not Graduate,No,1442,0,35,360,1,336, Rejected
+LP001087,Female,No,2,Graduate,,3750,2083,120,360,1,850, Approved
+LP001091,Male,Yes,1,Graduate,,4166,3369,201,360,,313, Rejected
+LP001095,Male,No,0,Graduate,No,3167,0,74,360,1,363, Rejected
+LP001097,Male,No,1,Graduate,Yes,4692,0,106,360,1,436, Rejected
+LP001098,Male,Yes,0,Graduate,No,3500,1667,114,360,1,830, Approved
+LP001100,Male,No,3,Graduate,No,12500,3000,320,360,1,612, Approved
+LP001106,Male,Yes,0,Graduate,No,2275,2067,,360,1,691, Approved
+LP001109,Male,Yes,0,Graduate,No,1828,1330,100,,0,636, Approved
+LP001112,Female,Yes,0,Graduate,No,3667,1459,144,360,1,348, Rejected
+LP001114,Male,No,0,Graduate,No,4166,7210,184,360,1,830, Approved
+LP001116,Male,No,0,Not Graduate,No,3748,1668,110,360,1,352, Rejected
+LP001119,Male,No,0,Graduate,No,3600,0,80,360,1,712, Approved
+LP001120,Male,No,0,Graduate,No,1800,1213,47,360,1,822, Approved
+LP001123,Male,Yes,0,Graduate,No,2400,0,75,360,,540, Rejected
+LP001131,Male,Yes,0,Graduate,No,3941,2336,134,360,1,342, Rejected
+LP001136,Male,Yes,0,Not Graduate,Yes,4695,0,96,,1,787, Approved
+LP001137,Female,No,0,Graduate,No,3410,0,88,,1,331, Rejected
+LP001138,Male,Yes,1,Graduate,No,5649,0,44,360,1,679, Approved
+LP001144,Male,Yes,0,Graduate,No,5821,0,144,360,1,677, Approved
+LP001146,Female,Yes,0,Graduate,No,2645,3440,120,360,0,634, Approved
